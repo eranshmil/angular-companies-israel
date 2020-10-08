@@ -4,7 +4,7 @@
 
 ---
 
-A curated list (sorted alphabetically) of Israeli product companies/product companies who hire Israelis - that work with [Angular](https://angular.io/).
+A curated list (sorted alphabetically) of Israeli product companies (or remote positions from Israel) that uses [Angular](https://angular.io/).
 
 Inspired by [JonathanDn/vue-companies-israel](https://github.com/JonathanDn/vue-companies-israel)
 
@@ -32,6 +32,7 @@ Inspired by [JonathanDn/vue-companies-israel](https://github.com/JonathanDn/vue-
 | [Claroty](https://www.claroty.com)                    | ✓      | Tel Aviv   | [Jobs](https://www.comeet.com/jobs/Claroty/F2.004), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Claroty-EI_IE2534828.11,18.htm), [SNC](https://finder.startupnationcentral.org/company_page/claroty)                                         |
 | [Convizit](https://convizit.com)                      | ?      | Tel Aviv   | [Jobs](https://convizit.com/careers), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Convizit-EI_IE3484362.11,19.htm), [SNC](https://finder.startupnationcentral.org/company_page/convizit)                                                     |
 | [Cyberbit](https://www.cyberbit.com)                  | ✓      | Ra'anana   | [Jobs](https://www.cyberbit.com/company/careers), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Cyberbit-EI_IE1423206.11,19.htm), [SNC](https://finder.startupnationcentral.org/company_page/cyberbit)                                         |
+| [Datorama](https://www.datorama.com)                  | ✗      | Tel Aviv   | [Jobs](https://salesforce.wd1.myworkdayjobs.com/datorama), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Datorama-EI_IE941576.11,19.htm), [SNC](https://finder.startupnationcentral.org/company_page/datorama)                                 |          |
 | [Elevation](https://www.elevation.ac)                 | ✗      | Tel Aviv   | [Jobs](https://www.comeet.com/jobs/elevation/E4.007), [SNC](https://finder.startupnationcentral.org/company_page/elevation)                                                                                                                                |
 | [Finastra](https://www.finastra.com)                  | ✓      | Kefar Sava | [Jobs](https://dh.wd3.myworkdayjobs.com/DHC/2/refreshFacet/318c8bb6f553100021d223d9780d30be), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Finastra-EI_IE1689268.11,19.htm), [SNC](https://finder.startupnationcentral.org/mnc_page/finastra) |
 | [Guardicore](https://www.guardicore.com)              | ✓      | Tel Aviv   | [Jobs](https://www.guardicore.com/company/careers), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Guardicore-EI_IE941664.11,21.htm), [SNC](https://finder.startupnationcentral.org/company_page/guardicore)                                    |

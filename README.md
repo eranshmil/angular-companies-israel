@@ -16,10 +16,9 @@ Inspired by [JonathanDn/vue-companies-israel](https://github.com/JonathanDn/vue-
 
 - Add as much info as you can.
 - Please keep the list in alphabetical order.
-- Don't forget to add your name and link to your profile. :) For example:
-
+- Copy the following markdown code to make your life easier:
   ```markdown
-  [@eranshmil](https://github.com/eranshmil)
+  | [Company](link) | ?/✓/✗ | City | [Jobs](link), [Glassdoor](link), [SNC](link) | [@username](link) |
   ```
 
 ---

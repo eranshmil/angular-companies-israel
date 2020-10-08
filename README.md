@@ -23,7 +23,7 @@ Inspired by [JonathanDn/vue-companies-israel](https://github.com/JonathanDn/vue-
 
 ---
 
-### Product Companies (Total: 14)
+### Product Companies (Total: 16)
 
 | Company                                               | Hiring | Locations  | Links                                                                                                                                                                                                                                                      | Added by |
 | ----------------------------------------------------- | ------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
@@ -39,6 +39,7 @@ Inspired by [JonathanDn/vue-companies-israel](https://github.com/JonathanDn/vue-
 | [Illusive Networks](https://www.illusivenetworks.com) | ✓      | Tel Aviv   | [Jobs](https://www.illusivenetworks.com/company/careers), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Illusive-Networks-EI_IE1146599.11,28.htm), [SNC](https://finder.startupnationcentral.org/company_page/illusive)                        |
 | [LitiGate](https://www.litigate.ai)                   | ✓      | Tel Aviv   | [Jobs](https://www.litigate.ai/careers), [SNC](https://finder.startupnationcentral.org/company_page/paralegal-ai)                                                                                                                                          |
 | [NVIDIA](https://www.nvidia.com)                      | ✓      | Yokneam    | [Jobs](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-NVIDIA-EI_IE7633.11,17.htm), [SNC](https://finder.startupnationcentral.org/mnc_page/nvidia)                         |
+| [proteanTecs](https://www.proteantecs.com)            | ✓      | Tel Aviv   | [Jobs](https://www.proteantecs.com/careers), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Protean-EI_IE2168757.11,18.htm), [SNC](https://finder.startupnationcentral.org/company_page/proteantecs)                                            |          |
 | [SentinelOne](https://www.sentinelone.com)            | ✓      | Tel Aviv   | [Jobs](https://www.sentinelone.com/jobs), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-SentinelOne-EI_IE1361978.11,22.htm), [SNC](https://finder.startupnationcentral.org/company_page/sentinelone)                                           |
 | [Varonis](https://www.varonis.com)                    | ✓      | Herzliya   | [Jobs](https://info.varonis.com/careers), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Varonis-Systems-EI_IE300225.11,26.htm), [SNC](https://finder.startupnationcentral.org/company_page/varonis)                                            |
 | [Yotpo](https://www.yotpo.com)                        | ✓      | Tel Aviv   | [Jobs](https://www.yotpo.com/jobs), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Yotpo-EI_IE860943.11,16.htm), [SNC](https://finder.startupnationcentral.org/company_page/yotpo)                                                              |

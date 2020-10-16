@@ -23,7 +23,7 @@ Inspired by [JonathanDn/vue-companies-israel](https://github.com/JonathanDn/vue-
 
 ---
 
-### Product Companies (Total: 42)
+### Product Companies (Total: 44)
 
 | Company                                               | Hiring | Locations     | Links                                                                                                                                                                                                                                                        | Added by                               |
 | ----------------------------------------------------- | ------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
@@ -66,9 +66,11 @@ Inspired by [JonathanDn/vue-companies-israel](https://github.com/JonathanDn/vue-
 | [Tracxpoint](https://tracxpoint.com)                  | ✗      | Haifa         | [Jobs](https://tracxpoint.com/careers), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-TRACXPOINT-EI_IE3898080.11,21.htm), [SNC](https://finder.startupnationcentral.org/company_page/tracxpoint)                                                 |                                        |
 | [UVeye](https://www.uveye.com/)                       | ✓      | Tel Aviv      | [Jobs](https://www.uveye.com/careers/), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-UVeye-EI_IE2480119.11,16.htm), [SNC](https://finder.startupnationcentral.org/company_page/uveye)                                                           | [@IdanCo](https://idancohen.com)       |
 | [Varonis](https://www.varonis.com)                    | ✓      | Herzliya      | [Jobs](https://info.varonis.com/careers), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Varonis-Systems-EI_IE300225.11,26.htm), [SNC](https://finder.startupnationcentral.org/company_page/varonis)                                              |
+| [Vdoo](https://vdoo.com)                              | ✓      | Tel Aviv      | [Jobs](https://www.comeet.com/jobs/vdoo/83.00C), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-VDOO-EI_IE2303105.11,15.htm), [SNC](https://finder.startupnationcentral.org/company_page/vdoo)                                                    |                                        |
 | [Yotpo](https://www.yotpo.com)                        | ✓      | Tel Aviv      | [Jobs](https://www.yotpo.com/jobs), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Yotpo-EI_IE860943.11,16.htm), [SNC](https://finder.startupnationcentral.org/company_page/yotpo)                                                                |
 | [Zebra Medical Vision](https://www.zebra-med.com)     | ✓      | Shefayim      | [Jobs](https://www.zebra-med.com/careers), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Zebra-Medical-Vision-EI_IE2879192.11,31.htm), [SNC](https://finder.startupnationcentral.org/company_page/zebra-medical-vision)                          |                                        |
 | [Zemingo](https://www.zemingo.com)                    | ✓      | Lod, Herzliya | [Jobs](https://www.zemingo.com/join), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Zemingo-EI_IE558965.11,18.htm)                                                                                                                               |                                        |
+| [ZoomInfo](https://zoominfo.com)                      | ✓      | Ra'anana      | [Jobs](https://www.zoominfo.com/about/careers), [Glassdoor](https://www.glassdoor.com/Overview/Working-at-ZoomInfo-EI_IE22253.11,19.htm), [SNC](https://finder.startupnationcentral.org/mnc_page/zoominfo)                                                   |
 
 ---
 

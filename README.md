@@ -78,3 +78,8 @@ Inspired by [JonathanDn/vue-companies-israel](https://github.com/JonathanDn/vue-
 
 - [JonathanDn/vue-companies-israel](https://github.com/JonathanDn/vue-companies-israel)
 - [rust-tlv/companies](https://github.com/rust-tlv/companies)
+- [vue-js-israel/awesome-vuejs-israel](https://github.com/vue-js-israel/awesome-vuejs-israel)
+
+### License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)

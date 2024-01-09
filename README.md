@@ -116,6 +116,8 @@ Inspired by [JonathanDn/vue-companies-israel](https://github.com/JonathanDn/vue-
 - [JonathanDn/vue-companies-israel](https://github.com/JonathanDn/vue-companies-israel)
 - [rust-tlv/companies](https://github.com/rust-tlv/companies)
 - [vue-js-israel/awesome-vuejs-israel](https://github.com/vue-js-israel/awesome-vuejs-israel)
+- [lirantal/awesome-opensource-israel](https://github.com/lirantal/awesome-opensource-israel)
+- [KaplanOpenSource/israeli-opensource-companies](https://github.com/KaplanOpenSource/israeli-opensource-companies)
 
 ---
 

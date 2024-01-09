@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="angular.svg" alt="Angular Logo" />
+  <img src="angular.svg" width="300" alt="Angular Logo" />
 </div>
 
 ---
